@@ -1,0 +1,2 @@
+# ssd_mobilenet_v2_coco_labels
+tensorflow ssd_mobilenet_v2_coco_labels
